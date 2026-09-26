@@ -1,0 +1,6 @@
+{
+  "name": "Khaas Atelier - Modern Fashion & Store Editor",
+  "description": "Premium contemporary clothing brand featuring curated collections for men and women with nationwide delivery in Pakistan, Cash on Delivery, and live interactive Store Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
